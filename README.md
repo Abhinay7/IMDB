@@ -1,6 +1,6 @@
 # imdbClone
 IMDB Clone made using the OMDB API
 
-- Git Repository link: https://github.com/utkarshsingh341/imdbClone
-- Video link: https://youtu.be/anHVWdGtDqQ
-- Hosted link: https://utkarshsingh341.github.io/imdbClone/
+- Git Repository link: https://github.com/Abhinay7/IMDB
+- Video link: 
+- Hosted link: https://abhinay7.github.io/IMDB/
